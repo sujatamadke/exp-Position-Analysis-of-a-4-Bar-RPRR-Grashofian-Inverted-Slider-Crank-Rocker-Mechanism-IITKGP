@@ -9,6 +9,7 @@
 
 
 # People
+
 ## Subject Matter Expert
 <b>Name of Developer | <b> **Dr. Kingshook Bhattacharyya**
 :--|:--|
